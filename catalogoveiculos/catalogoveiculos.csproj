@@ -8,6 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+<<<<<<< HEAD
+=======
   <ItemGroup>
     <Folder Include="Controller\" />
     <Folder Include="Model\" />
@@ -28,4 +30,5 @@
     </EmbeddedResource>
   </ItemGroup>
 
+>>>>>>> b345eb17d5afe34fc0d3bfcfaa3f97c067c16e49
 </Project>

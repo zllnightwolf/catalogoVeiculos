@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace catalogoveiculos.Controller
 {
-    internal class ManipulaVeiculos
+    internal class ManipularVeiculos
     {
-
     }
 }
