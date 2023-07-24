@@ -94,8 +94,8 @@
             this.códigoToolStripMenuItem,
             this.nomeToolStripMenuItem,
             this.marcaToolStripMenuItem,
-            this.placaToolStripMenuItem,
             this.anoToolStripMenuItem,
+            this.placaToolStripMenuItem,
             this.modeloToolStripMenuItem,
             this.corToolStripMenuItem});
             this.buscarToolStripMenuItem.Name = "buscarToolStripMenuItem";
