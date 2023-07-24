@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace catalogoveiculos.View
 {
-    public partial class Form1 : Form
+    public partial class MenuPrincipal : Form
     {
-        public Form1()
+        public MenuPrincipal()
         {
             InitializeComponent();
         }
